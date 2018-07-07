@@ -1,0 +1,30 @@
+
+.topTit{background: #f6f7f9;padding: 0 .5rem;color: #abadb1;font-size: .26rem;line-height: .68rem;height: .68rem;width:7.5rem;position: fixed;left: 50%;top: 0;margin-left: -3.75rem;z-index: 1;}
+
+.conent{margin-top: .78rem;padding: .5rem;}
+.conent .cTxt{font-size: .3rem;text-indent: 1.5em;color: #3b3f47;margin-bottom: .6rem;line-height: .76rem;letter-spacing: 1px;}
+
+.topMenu{height: .9rem;position: fixed;width: 7.5rem;left: 50%;margin-left: -3.75rem;top: -.9rem;background: #000;z-index: 99;display: flex;align-items: center;justify-content:space-between;transition: all 300ms;}
+.topMenu .topBtns{display: inline-block;width: .96rem;text-align: center;}
+.topMenu .topBtns .iconfont{font-size: .38rem;}
+.left .topBtns .iconfont{font-size: .45rem;}
+
+.botMenu{height: 1.04rem;background: #000;position: fixed;bottom: -1.06rem;width: 7.5rem;left: 50%;margin-left: -3.75rem;display: flex;align-items: center;justify-content:space-between;transition: all 300ms;}
+.botMenu .botBtns{display: inline-block;width: 1.6rem;text-align: center;font-size: .24rem;color: #838a96;}
+.botMenu .botBtns .iconfont{font-size: .38rem;display: block;}
+
+.topAni{top: 0 !important}
+.botAni{bottom: 0 !important;}
+
+.hideBox{position: fixed;bottom: -4rem;width: 7.5rem;left: 50%;margin-left: -3.75rem;background-color: #f5f7fa;z-index: 999;height: 3.52rem;transition: all 300ms;}
+.hideBox  .hidep{height: 1.1rem;padding:0 .3rem;background-color: #fff;}
+.hideBox span{font-size: .3rem;}
+.hideBox .beta{background-color: #f75651;display: inline-block;padding: 3px 5px;border-radius: 3px;color: #fff;text-align: center;font-size: .2rem;margin: 0 .2rem 0 .1rem;}
+.hideBox .left .icon-wenhao{font-size: .3rem;}
+
+.cancelBtn{position: absolute;bottom: 0;width: 100%;left: 0;height: 1.1rem;line-height: 1.1rem;font-size: .32rem;text-align: center;background-color: #fff;}
+
+
+
+
+
